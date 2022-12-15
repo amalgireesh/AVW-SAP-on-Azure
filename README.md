@@ -1,4 +1,4 @@
-# Azure Virtual Workshop: SAP on Azure
+Azure Virtual Workshop: SAP on Azure
 
 ## Overview
 
