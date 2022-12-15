@@ -1,4 +1,4 @@
-Azure Virtual Workshop: SAP on Azure
+# Azure Virtual Workshop: SAP on Azure
 
 ## Overview
 
@@ -57,6 +57,6 @@ In this module, you will create a custom connector and Power App then add the cu
 
 ## Module 3 - Cloud Operations, Governance, Security
 
-This module covers how to operate and govern the SAP system running on Azure.
+**This module covers how to operate and govern the SAP system running on Azure.**
 
 In this module, you will review the pre-deployed SAP HANA resources, connect to the SAP HANA database and verify the status of the database. You will also review the CPU and memory metrics of the SAP HANA instances that are being monitored, then review the pre-configured action groups, alert rules, and alerts fired by Azure Monitor. You will also learn how to enable Azure Defender for SAP HANA VMs, configure, and enable backup for the SAP HANA database running on an Azure Virtual Machine, and how to perform an on-demand backup for the SAP HANA database and restore it.
